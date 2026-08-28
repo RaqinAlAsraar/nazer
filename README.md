@@ -24,8 +24,6 @@ A lightweight, CLI-based HTTP Proxy Logger & Active Spider.
   - [Configuration](#configuration)
 - [Fixing SSL Certificate Errors](#fixing-ssl-certificate-errors-manual-proxy-setup)
 - [Output Formats](#output-formats)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 - [License](#license)
 
@@ -63,8 +61,8 @@ An installer script is included that sets up a secure Python virtual environment
 ```bash
 git clone https://github.com/RaqinAlAsraar/nazer.git
 cd nazer
-chmod +x install.sh
-./install.sh
+chmod +x setup.sh
+./setup.sh
 ```
 
 ### Manual Installation (Windows / macOS / Arch)

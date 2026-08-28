@@ -48,9 +48,9 @@ I built this tool for my daily target mapping workflow during bug bounty hunting
 
 ## Screenshots
 
-`![Nazer CLI](images/1.png)`
+![Nazer CLI](images/1.png)
 
-`![Nazer HTML UI](images/2.png)`
+![Nazer HTML UI](/images/2.png)
 
 ---
 
